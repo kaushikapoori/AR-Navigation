@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad400953b60bd4f46ad225a4161e2df2, type: 3}
+  m_Name: FigmaImporterSettings
+  m_EditorClassIdentifier: 
+  clientCode: bH6u4gV07Y9dIihcOW7WLZU3t
+  state: 21849610
+  token: 
+  url: https://www.figma.com/file/AX5qWK1Qq47mxwCGgrx2lo/AR-Navigation-Application-Con%D1%81ept-(Community)?type=design&node-id=0-1&mode=design&t=xGl96ynNO8g4y2AI-0
+  rendersPath: FigmaImporter/Renders
