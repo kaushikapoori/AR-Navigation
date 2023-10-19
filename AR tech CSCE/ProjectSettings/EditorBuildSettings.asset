@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sign in.unity
     guid: c2b0abfce446b4a2d977cb846e161109
+  - enabled: 1
+    path: Assets/Welcome.unity
+    guid: 6c409f5e8fd8546d1942361a50d20c93
   m_configObjects: {}
