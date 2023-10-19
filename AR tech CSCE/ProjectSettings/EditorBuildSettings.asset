@@ -7,10 +7,10 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: 
-    guid: e244f6bd799fd41ca8b128d2e53a3b89
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
-    guid: 41c5d9f5669f246eca9ba130cd3e38a9
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/home.unity
     guid: c14e775f4c6384bc8b147a79e06f9e0d
@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/search.unity
     guid: e6375faad5ed74b6c849615d26b2b7b4
+  - enabled: 1
+    path: Assets/profilemain.unity
+    guid: fcefefe025b7d4d1c835b1659b3c38b2
   - enabled: 1
     path: Assets/profile.unity
     guid: 7d48b666d8efa4936b3d624413b9d46a
