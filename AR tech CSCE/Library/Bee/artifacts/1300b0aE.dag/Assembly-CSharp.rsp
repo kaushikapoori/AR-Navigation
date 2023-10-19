@@ -360,7 +360,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityFigmaBridgeEditor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityFigmaBridgeRuntime.ref.dll"
 "Assets/navigate.cs"
-"Assets/Signup.cs"
+"Assets/signinscript.cs"
 -langversion:9.0
 
 /deterministic

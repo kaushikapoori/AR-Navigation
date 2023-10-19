@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class navigate : MonoBehaviour
 {
-  public void PlayGame ()
+  public void PlayGame()
   {
-       	SceneManager.LoadScene(2);
+       	SceneManager.LoadScene(1);
     
-  } 
+  }
 }

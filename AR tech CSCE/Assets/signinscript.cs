@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement; 
 
-public class Signup : MonoBehaviour
+public class signinscript : MonoBehaviour
 {
-  public void PlayGame ()
+  public void PlayGame()
   {
-       	SceneManager.LoadScene(1);
+       	SceneManager.LoadScene(2);
     
-  } 
+  }
 }
