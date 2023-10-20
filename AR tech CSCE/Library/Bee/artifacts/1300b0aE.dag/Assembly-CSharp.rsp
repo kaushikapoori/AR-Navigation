@@ -381,6 +381,7 @@
 "Assets/SimpleLocalization/Scripts/LocalizedDropdown.cs"
 "Assets/SimpleLocalization/Scripts/LocalizedText.cs"
 "Assets/SimpleLocalization/Scripts/Sheet.cs"
+"Assets/startstop.cs"
 -langversion:9.0
 
 /deterministic
