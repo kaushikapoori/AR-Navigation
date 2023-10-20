@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713005295636",
+    "project_id": "ar-navigation-csce",
+    "storage_bucket": "ar-navigation-csce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713005295636:android:70b9412b542b9592425f01",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ARtechCSCE"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDL7pnfpledp--qeNhlUlJVzlV4CV6SOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
