@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/settings.unity
     guid: df94f996b70624f1da03b5e2bf44459b
+  - enabled: 1
+    path: Assets/language.unity
+    guid: bc3596904d06d43eeb126da76d82cf48
   m_configObjects: {}

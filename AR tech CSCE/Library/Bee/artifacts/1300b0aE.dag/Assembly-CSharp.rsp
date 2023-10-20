@@ -363,6 +363,7 @@
 "Assets/scripts/back2.cs"
 "Assets/scripts/backsearch.cs"
 "Assets/scripts/homeback.cs"
+"Assets/scripts/language.cs"
 "Assets/scripts/navigate.cs"
 "Assets/scripts/navigatear.cs"
 "Assets/scripts/profile.cs"
@@ -370,6 +371,7 @@
 "Assets/scripts/setting.cs"
 "Assets/scripts/signinscript.cs"
 "Assets/scripts/signupback.cs"
+"Assets/scripts/use.cs"
 "Assets/scripts/welcome.cs"
 -langversion:9.0
 
