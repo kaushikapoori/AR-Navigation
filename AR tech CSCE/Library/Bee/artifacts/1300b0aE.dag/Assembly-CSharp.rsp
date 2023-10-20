@@ -373,6 +373,7 @@
 "Assets/scripts/signupback.cs"
 "Assets/scripts/use.cs"
 "Assets/scripts/welcome.cs"
+"Assets/signup.cs"
 "Assets/SimpleLocalization/Example.cs"
 "Assets/SimpleLocalization/Scripts/Constants.cs"
 "Assets/SimpleLocalization/Scripts/LocalizationManager.cs"

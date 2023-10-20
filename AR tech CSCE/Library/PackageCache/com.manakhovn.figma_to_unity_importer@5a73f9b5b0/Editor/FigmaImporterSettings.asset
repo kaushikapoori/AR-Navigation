@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad400953b60bd4f46ad225a4161e2df2, type: 3}
   m_Name: FigmaImporterSettings
   m_EditorClassIdentifier: 
-  clientCode: bH6u4gV07Y9dIihcOW7WLZU3t
-  state: 21849610
-  token: 
+  clientCode: iUeqQAbXMb3gngamh4oqpmOCo
+  state: 349807966
+  token: figu_WN7sf5LhWR9NK6VDTtOlvKCtBUxREkEMxFiyyPrq
   url: https://www.figma.com/file/AX5qWK1Qq47mxwCGgrx2lo/AR-Navigation-Application-Con%D1%81ept-(Community)?type=design&node-id=0-1&mode=design&t=xGl96ynNO8g4y2AI-0
   rendersPath: FigmaImporter/Renders

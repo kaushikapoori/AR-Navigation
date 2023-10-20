@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 119c1bd3601648f28a252a6030e067b6, type: 3}
   m_Name: UnityFigmaBridgeSettings
   m_EditorClassIdentifier: 
-  DocumentUrl: https://www.figma.com/file/AX5qWK1Qq47mxwCGgrx2lo/AR-Navigation-Application-Con%D1%81ept-(Community)?type=design&node-id=0-1&mode=design&t=twSJ4jKvGGRwyAIV-0
+  DocumentUrl: https://www.figma.com/file/AX5qWK1Qq47mxwCGgrx2lo/AR-Navigation-Application-Con%D1%81ept-(Community)?type=design&node-id=0-2176&mode=design&t=MShm8nKmjx4W1aXc-0
   BuildPrototypeFlow: 1
   RunTimeAssetsScenePath: Assets/scenes.unity
   EnableAutoLayout: 0
