@@ -610,8 +610,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 157.3, y: -429.9708}
-  m_SizeDelta: {x: 291, y: 568.5375}
+  m_AnchoredPosition: {x: 157.3, y: -419.17853}
+  m_SizeDelta: {x: 291, y: 546.953}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &166317152
 MonoBehaviour:
@@ -2945,7 +2945,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 1309047273}
   startSprite: {fileID: 21300000, guid: 7c0e5872ea32f472193b7c7fcf3055be, type: 3}
-  stopSprite: {fileID: 21300000, guid: 7ee48c5fba4919649a8a6094cbead669, type: 3}
+  stopSprite: {fileID: 21300000, guid: 602b72d4617c3694aa94419fc1b68e04, type: 3}
 --- !u!1 &1712137655
 GameObject:
   m_ObjectHideFlags: 0
