@@ -327,7 +327,7 @@
 -r:"/Applications/Unity/Hub/Editor/2021.3.13f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.13f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.13f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll"
--r:"/Users/kaushikapoori/Desktop/AR-Navigation/AR tech CSCE/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
+-r:"/Users/kaushikapoori/Desktop/AR-Navigation/AR tech CSCE/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll"
 -r:"/Users/kaushikapoori/Desktop/AR-Navigation/AR tech CSCE/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"/Users/kaushikapoori/Desktop/AR-Navigation/AR tech CSCE/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/FigmaToUnityImporter.ref.dll"
@@ -359,6 +359,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityFigmaBridgeEditor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityFigmaBridgeRuntime.ref.dll"
+"Assets/multilanguage.cs"
 "Assets/scripts/back1.cs"
 "Assets/scripts/back2.cs"
 "Assets/scripts/backsearch.cs"
@@ -373,6 +374,14 @@
 "Assets/scripts/signupback.cs"
 "Assets/scripts/use.cs"
 "Assets/scripts/welcome.cs"
+"Assets/SimpleLocalization/Example.cs"
+"Assets/SimpleLocalization/Scripts/Constants.cs"
+"Assets/SimpleLocalization/Scripts/LocalizationManager.cs"
+"Assets/SimpleLocalization/Scripts/LocalizationSettings.cs"
+"Assets/SimpleLocalization/Scripts/LocalizationSync.cs"
+"Assets/SimpleLocalization/Scripts/LocalizedDropdown.cs"
+"Assets/SimpleLocalization/Scripts/LocalizedText.cs"
+"Assets/SimpleLocalization/Scripts/Sheet.cs"
 -langversion:9.0
 
 /deterministic
