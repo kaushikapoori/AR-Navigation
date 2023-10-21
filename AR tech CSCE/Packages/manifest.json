@@ -3,6 +3,7 @@
     "com.manakhovn.figma_to_unity_importer": "https://github.com/ManakhovN/FigmaToUnityImporter.git?path=/Assets/FigmaImporter",
     "com.simonoliver.unityfigma": "https://github.com/simonoliver/UnityFigmaBridge.git",
     "com.unity.collab-proxy": "1.17.6",
+    "com.unity.connect.share": "4.2.3",
     "com.unity.editorcoroutines": "1.0.0",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.15",
